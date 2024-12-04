@@ -123,6 +123,18 @@
         "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg",
         "desc": "欢迎光临糖果屋",
         "url": "https://akilar.top/"
+      },
+      {
+        "name": "纸鹿摸鱼处",
+        "avatar": "https://www.zhilu.cyou/api/avatar.png",
+        "desc": "纸鹿至麓不知路，支炉制露不止漉",
+        "url": "https://blog.zhilu.cyou"
+      },
+      {
+        "name": "微光档案",
+        "avatar": "https://cravatar.cn/avatar/ECB2EA87C4532F007838D86D02798F89",
+        "desc": "虚幻的幸福",
+        "url": "https://bikari.top"
       }
     ]
   },

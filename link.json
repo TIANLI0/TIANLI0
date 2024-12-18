@@ -592,6 +592,12 @@
         "avatar": "https://blog.akiday.com/imgapi/profile.webp",
         "desc": "永恒秋日之星",
         "url": "https://blog.akiday.com"
+      },
+      {
+        "name": "xyx404",
+        "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp",
+        "desc": "在努力和摆烂中选择了努力摆烂AWA",
+        "url": "https://blog.xyx404.us.kg/"
       }
     ]
   }

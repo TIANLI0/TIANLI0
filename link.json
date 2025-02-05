@@ -604,6 +604,12 @@
         "avatar": "https://blog.jiaxiang.wang/img/logo.webp",
         "desc": "专注于科技、音乐等领域跨界创新，分享经验与见解",
         "url": "https://blog.jiaxiang.wang/"
+      },
+      {
+        "name": "webfem",
+        "avatar": "https://webfem.com/img/logo.jpg",
+        "desc": "做有价值的博客",
+        "url": "https://webfem.com"
       }
     ]
   }

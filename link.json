@@ -628,6 +628,12 @@
         "avatar": "https://zuoguan.netlify.app/images/cat.jpg",
         "desc": "千万人从千万角落向爱人奔去",
         "url": "https://zuoguan.netlify.app"
+      },
+      {
+        "name": "云泽记",
+        "avatar": "https://static.yunzeji.cn/pic/cat.webp",
+        "desc": "秉烛夜游?秉烛夜游!",
+        "url": "https://blog.yunzeji.cn"
       }
     ]
   }

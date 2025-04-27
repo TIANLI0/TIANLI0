@@ -628,6 +628,12 @@
         "avatar": "https://zuoguan.netlify.app/images/cat.jpg",
         "desc": "千万人从千万角落向爱人奔去",
         "url": "https://zuoguan.netlify.app"
+      },
+      {
+        "name": "渔夫Fisherman",
+        "avatar": "https://www.yuxuemei.top/images/portrait.jpg",
+        "desc": "闲得发慌，所以做了这个网站，我也不太懂!",
+        "url": "https://www.yuxuemei.top"
       }
     ]
   }

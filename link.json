@@ -628,6 +628,12 @@
         "avatar": "https://zuoguan.netlify.app/images/cat.jpg",
         "desc": "千万人从千万角落向爱人奔去",
         "url": "https://zuoguan.netlify.app"
+      },
+      {
+        "name": "Masttf",
+        "avatar": "https://epiphyllum.masttf.fun/avatar.jpg",
+        "desc": "退役Acmer 是个菜鸡",
+        "url": "https://epiphyllum.masttf.fun"
       }
     ]
   }

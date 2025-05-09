@@ -565,7 +565,7 @@
       },
       {
         "name": "青稚",
-        "avatar": "https://blog.linux-qitong.top/img/avatar.jpg",
+        "avatar": "https://blog.linux-qitong.top/img/avatar.webp",
         "desc": "越努力,越幸运.",
         "url": "https://blog.linux-qitong.top/"
       },
@@ -634,6 +634,12 @@
         "avatar": "https://www.yuxuemei.top/images/portrait.jpg",
         "desc": "闲得发慌，所以做了这个网站，我也不太懂!",
         "url": "https://www.yuxuemei.top"
+      },
+      {
+        "name": "云泽记",
+        "avatar": "https://static.yunzeji.cn/pic/cat.webp",
+        "desc": "秉烛夜游?秉烛夜游!",
+        "url": "https://blog.yunzeji.cn"
       }
     ]
   }

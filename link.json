@@ -135,6 +135,12 @@
         "avatar": "https://cravatar.cn/avatar/ECB2EA87C4532F007838D86D02798F89",
         "desc": "虚幻的幸福",
         "url": "https://bikari.top"
+      },
+      {
+        "name": "Ray's Blog",
+        "avatar": "https://blog.mk1.io/favicon.png",
+        "desc": "Never say never.",
+        "url": "https://mk1.io"
       }
     ]
   },
@@ -662,5 +668,6 @@
     ]
   }
 ]
+
 
 

@@ -138,7 +138,7 @@
       },
       {
         "name": "Ray's Blog",
-        "avatar": "https://blog.mk1.io/favicon.png",
+        "avatar": "https://img.mk1.io/img/avatar.png",
         "desc": "Never say never.",
         "url": "https://mk1.io"
       }
@@ -668,3 +668,4 @@
     ]
   }
 ]
+

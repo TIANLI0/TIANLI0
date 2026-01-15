@@ -670,8 +670,15 @@
         "avatar": "https://cdn.amiracle.site/sm_avatar.jpg",
         "desc": "向往之处，便是归途",
         "url": "https://amiracle.site"
+      },
+       {
+        "name": "乔人尹",
+        "avatar": "https://blog-static.underestimated.cn/info/avatar/avatar.webp",
+        "desc": "生命在于折腾。Coding the world!",
+        "url": "https://underestimated.cn/"
       }
     ]
   }
 ]
+
 

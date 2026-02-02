@@ -676,10 +676,17 @@
         "avatar": "https://blog-static.underestimated.cn/info/avatar/avatar.webp",
         "desc": "生命在于折腾。Coding the world!",
         "url": "https://underestimated.cn/"
-      }
+       },
+      {
+        "name": "HiPeach",
+        "avatar": "https://npm.elemecdn.com/opicture@1.0.0/main/avatar.webp",
+        "desc": "妙不可言",
+        "url": "https://blog.opeach.cn"
+       }
     ]
   }
 ]
+
 
 
 

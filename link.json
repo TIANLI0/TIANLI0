@@ -682,7 +682,13 @@
         "avatar": "https://npm.elemecdn.com/opicture@1.0.0/main/avatar.webp",
         "desc": "妙不可言",
         "url": "https://blog.opeach.cn"
-       }
+       },
+      {
+        "name": "Saneko",
+        "avatar": "https://cdn.blog.saneko.me/Web/Avatar.png",
+        "desc": "Do the things that I like.",
+        "url": "https://saneko.me"
+      }
     ]
   }
 ]

@@ -1,36 +1,40 @@
-# This is Tianli
+# Hi, I'm Tianli 👋
 
 ## zh-CN
 
 [![mail](https://img.shields.io/badge/Email-wutianli@tianli0.top-F2572D?style=flat-square)](mailto:wutianli@tianli0.top)
 [![blog](https://img.shields.io/badge/HomePage-tianli0.top-008972?style=flat-square)](https://www.tianli0.top)
-[![afadian](https://img.shields.io/badge/爱发电-@Tianli0-8F6ADB?style=flat-square)](https://afdian.net/@Tianli0)
-[![major](https://img.shields.io/badge/major-O_I_S_E-3053FF?style=flat-square)](Optoelectronic_information_science_and_engineering)
 
-欸，你好呀~  是来认识Tianli的么……
+欸，你好呀~ 是来认识 Tianli 的么……
 
 他现在似乎不在呢…就让咱简单介绍下吧：
 
-鉴赏家 (ISTP-T)
-
-在读废物摆烂大学生
-
+**鉴赏家 (ISTP-T)**  
+在读废物摆烂大学生  
 光电信息科学与工程专业
 
-精通baidu编程，Google编程，面向ChatGPT编程
+**精通：** Baidu 编程、Google 编程、面向 `LLM` 编程
 
-可能是个后端？后端一般用的`golang`:`gin`，前端在学`vue`还很菜啦！，深度学习目前在学`pytorch` `yolo` ~ 
+喜欢捣鼓些小玩意～  
 
-嗷，对了，饿饿~！要是你要支持窝，不妨看看咱的付费项目！
+**主力技术栈：** `Go` + `Gin` + `Wails` | `Next.js`
 
-## en
+嗷，对了，饿饿~！要是你要支持窝，不妨看看咱的付费项目吧～
 
-Hello there! 😊 Welcome to my corner of the internet. My name is Tianli, and I'm glad you've stopped by.
+## en-US
 
-### Quick Facts
-- **Personality Type:** Connoisseur (ISTP-T)
-- **Current Status:** An undergraduate student in Optoelectronic Information Science and Engineering, currently embracing a laid-back lifestyle.
+Hey there~ Are you here to get to know Tianli?
 
-I have a passion for technology and continuously seek to learn more about it. If you're interested in what I do or just want to chat, feel free to reach out through any of the links above.
+He seems to be away right now… so let me give you a quick intro:
+
+**Appreciator (ISTP-T)**  
+Slacker college student who's currently wasting away  
+Optoelectronic Information Science and Engineering major
+
+**Proficient in:** Baidu programming, Google programming, LLM-oriented programming
+
+Likes to tinker with small stuff~
+
+**Main tech stack:** `Go` + `Gin` + `Wails` | `Next.js`
 
 Looking forward to connecting with you!

@@ -21,6 +21,10 @@
 
 嗷，对了，饿饿~！要是你要支持窝，不妨看看咱的付费项目吧～
 
+**状态：**
+
+忙于毕设中
+
 ## en-US
 
 Hey there~ Are you here to get to know Tianli?
@@ -38,3 +42,5 @@ Likes to tinker with small stuff~
 **Main tech stack:** `Go` + `Gin` + `Wails` | `Next.js`
 
 Looking forward to connecting with you!
+
+Busy with thesis
